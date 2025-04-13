@@ -83,10 +83,12 @@ Custom-PCB-Drone/
 
 ## 📸 Screenshots
 
-![3D model using Fusion 360](/Image/fusion.png)
-![Schematics](/Image/circ.png)
-![3D model of PCB](/Image/pcb3d.png)
-![2D model of PCB](/Image/pcb2d.png)
+![Schematics](/Image/Circ.pdf)
+![2D model of PCB](/Image/2D_Top.png)
+![3D model using Fusion 360](/Image/Fusion_Top.png)
+![3D model of PCB](/Image/3D_Top.png)
+![3D model of PCB (at an angle)](/Image/3D_Angle.png)
+
 
 
 
